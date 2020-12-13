@@ -1,0 +1,267 @@
+*** Starting uWSGI 2.0.19.1 (64bit) on [Mon Dec 14 00:19:31 2020] ***
+compiled with version: 8.3.1 20191121 (Red Hat 8.3.1-5) on 13 December 2020 15:37:42
+os: Linux-4.18.0-240.1.1.el8_3.x86_64 #1 SMP Thu Nov 19 17:20:08 UTC 2020
+nodename: iZ23gglcjakZ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /usr/local/src/django_web/webproject
+writing pidfile to /usr/local/src/django_web/uwsgi.pid
+detected binary path: /root/.virtualenvs/django/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /usr/local/src/django_web/webproject
+your processes number limit is 14823
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uWSGI http bound on 127.0.0.1:8080 fd 6
+uwsgi socket 0 bound to UNIX address /usr/local/src/django_web/uwsgi.sock fd 9
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.8 (default, Aug 24 2020, 17:57:11)  [GCC 8.3.1 20191121 (Red Hat 8.3.1-5)]
+Python main interpreter initialized at 0x1cb8c10
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 486576 bytes (475 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1cb8c10 pid: 12954 (default app)
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 12954)
+spawned uWSGI worker 1 (pid: 12956, cores: 1)
+spawned uWSGI worker 2 (pid: 12957, cores: 1)
+spawned uWSGI worker 3 (pid: 12958, cores: 1)
+spawned uWSGI worker 4 (pid: 12959, cores: 1)
+spawned uWSGI worker 5 (pid: 12960, cores: 1)
+spawned uWSGI http 1 (pid: 12961)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 12961)
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Mon Dec 14 00:21:10 2020] ***
+compiled with version: 8.3.1 20191121 (Red Hat 8.3.1-5) on 13 December 2020 15:37:42
+os: Linux-4.18.0-240.1.1.el8_3.x86_64 #1 SMP Thu Nov 19 17:20:08 UTC 2020
+nodename: iZ23gglcjakZ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /usr/local/src/django_web
+writing pidfile to /usr/local/src/django_web/uwsgi.pid
+detected binary path: /root/.virtualenvs/django/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /usr/local/src/django_web/webproject
+your processes number limit is 14823
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uWSGI http bound on 127.0.0.1:8080 fd 6
+uwsgi socket 0 bound to UNIX address /usr/local/src/django_web/uwsgi.sock fd 9
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.8 (default, Aug 24 2020, 17:57:11)  [GCC 8.3.1 20191121 (Red Hat 8.3.1-5)]
+Python main interpreter initialized at 0x2168bf0
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 486576 bytes (475 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x2168bf0 pid: 12988 (default app)
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 12988)
+spawned uWSGI worker 1 (pid: 12990, cores: 1)
+spawned uWSGI worker 2 (pid: 12991, cores: 1)
+spawned uWSGI worker 3 (pid: 12992, cores: 1)
+spawned uWSGI worker 4 (pid: 12993, cores: 1)
+spawned uWSGI worker 5 (pid: 12994, cores: 1)
+spawned uWSGI http 1 (pid: 12995)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 12995)
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Mon Dec 14 00:23:18 2020] ***
+compiled with version: 8.3.1 20191121 (Red Hat 8.3.1-5) on 13 December 2020 15:37:42
+os: Linux-4.18.0-240.1.1.el8_3.x86_64 #1 SMP Thu Nov 19 17:20:08 UTC 2020
+nodename: iZ23gglcjakZ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /usr/local/src/django_web
+writing pidfile to /usr/local/src/django_web/uwsgi.pid
+detected binary path: /root/.virtualenvs/django/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /usr/local/src/django_web/webproject
+your processes number limit is 14823
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uWSGI http bound on 0.0.0.0:8080 fd 6
+uwsgi socket 0 bound to UNIX address /usr/local/src/django_web/uwsgi.sock fd 9
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.8 (default, Aug 24 2020, 17:57:11)  [GCC 8.3.1 20191121 (Red Hat 8.3.1-5)]
+Python main interpreter initialized at 0xae7d80
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 486576 bytes (475 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0xae7d80 pid: 13026 (default app)
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 13026)
+spawned uWSGI worker 1 (pid: 13028, cores: 1)
+spawned uWSGI worker 2 (pid: 13029, cores: 1)
+spawned uWSGI worker 3 (pid: 13030, cores: 1)
+spawned uWSGI worker 4 (pid: 13031, cores: 1)
+spawned uWSGI worker 5 (pid: 13032, cores: 1)
+spawned uWSGI http 1 (pid: 13033)
+[pid: 13028|app: 0|req: 1/1] 183.192.226.28 () {40 vars in 835 bytes} [Sun Dec 13 16:23:21 2020] GET / => generated 15 bytes in 11 msecs (HTTP/1.1 200) 5 headers in 165 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 13029|app: 0|req: 1/2] 183.192.226.28 () {38 vars in 748 bytes} [Sun Dec 13 16:23:21 2020] GET /favicon.ico => generated 2080 bytes in 18 msecs (HTTP/1.1 404) 5 headers in 159 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 13033)
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Mon Dec 14 00:54:51 2020] ***
+compiled with version: 8.3.1 20191121 (Red Hat 8.3.1-5) on 13 December 2020 15:37:42
+os: Linux-4.18.0-240.1.1.el8_3.x86_64 #1 SMP Thu Nov 19 17:20:08 UTC 2020
+nodename: iZ23gglcjakZ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /usr/local/src/django_web
+writing pidfile to /usr/local/src/django_web/uwsgi.pid
+detected binary path: /root/.virtualenvs/django/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /usr/local/src/django_web/webproject
+your processes number limit is 14823
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uWSGI http bound on 0.0.0.0:8080 fd 6
+uwsgi socket 0 bound to UNIX address /usr/local/src/django_web/uwsgi.sock fd 9
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.8 (default, Aug 24 2020, 17:57:11)  [GCC 8.3.1 20191121 (Red Hat 8.3.1-5)]
+Python main interpreter initialized at 0x1305d60
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 486576 bytes (475 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x1305d60 pid: 13573 (default app)
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 13573)
+spawned uWSGI worker 1 (pid: 13575, cores: 1)
+spawned uWSGI worker 2 (pid: 13576, cores: 1)
+spawned uWSGI worker 3 (pid: 13577, cores: 1)
+spawned uWSGI worker 4 (pid: 13578, cores: 1)
+spawned uWSGI worker 5 (pid: 13579, cores: 1)
+spawned uWSGI http 1 (pid: 13580)
+Invalid HTTP_HOST header: 'www.eyo.mobi'. You may need to add 'www.eyo.mobi' to ALLOWED_HOSTS.
+Bad Request: /
+[pid: 13575|app: 0|req: 1/1] 183.192.226.28 () {50 vars in 898 bytes} [Sun Dec 13 16:55:05 2020] GET / => generated 58350 bytes in 48 msecs (HTTP/2.0 400) 3 headers in 116 bytes (1 switches on core 0)
+Invalid HTTP_HOST header: 'www.eyo.mobi'. You may need to add 'www.eyo.mobi' to ALLOWED_HOSTS.
+Bad Request: /
+[pid: 13576|app: 0|req: 1/2] 183.192.226.28 () {50 vars in 898 bytes} [Sun Dec 13 16:56:05 2020] GET / => generated 58350 bytes in 44 msecs (HTTP/2.0 400) 3 headers in 116 bytes (1 switches on core 0)
+Invalid HTTP_HOST header: 'www.eyo.mobi'. You may need to add 'www.eyo.mobi' to ALLOWED_HOSTS.
+Bad Request: /
+[pid: 13577|app: 0|req: 1/3] 183.192.226.28 () {50 vars in 898 bytes} [Sun Dec 13 16:56:06 2020] GET / => generated 58350 bytes in 48 msecs (HTTP/2.0 400) 3 headers in 116 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 13580)
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Mon Dec 14 00:56:39 2020] ***
+compiled with version: 8.3.1 20191121 (Red Hat 8.3.1-5) on 13 December 2020 15:37:42
+os: Linux-4.18.0-240.1.1.el8_3.x86_64 #1 SMP Thu Nov 19 17:20:08 UTC 2020
+nodename: iZ23gglcjakZ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /usr/local/src/django_web
+writing pidfile to /usr/local/src/django_web/uwsgi.pid
+detected binary path: /root/.virtualenvs/django/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /usr/local/src/django_web/webproject
+your processes number limit is 14823
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: enabled
+uWSGI http bound on 0.0.0.0:8080 fd 6
+uwsgi socket 0 bound to UNIX address /usr/local/src/django_web/uwsgi.sock fd 9
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.6.8 (default, Aug 24 2020, 17:57:11)  [GCC 8.3.1 20191121 (Red Hat 8.3.1-5)]
+Python main interpreter initialized at 0x1129d60
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 486576 bytes (475 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1129d60 pid: 13659 (default app)
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 13659)
+spawned uWSGI worker 1 (pid: 13661, cores: 1)
+spawned uWSGI worker 2 (pid: 13662, cores: 1)
+spawned uWSGI worker 3 (pid: 13663, cores: 1)
+spawned uWSGI worker 4 (pid: 13664, cores: 1)
+spawned uWSGI worker 5 (pid: 13665, cores: 1)
+spawned uWSGI http 1 (pid: 13666)
+[pid: 13661|app: 0|req: 1/1] 183.192.226.28 () {50 vars in 898 bytes} [Sun Dec 13 16:56:52 2020] GET / => generated 15 bytes in 10 msecs (HTTP/2.0 200) 5 headers in 165 bytes (1 switches on core 0)
+[pid: 13662|app: 0|req: 1/2] 183.192.226.28 () {52 vars in 927 bytes} [Sun Dec 13 17:13:33 2020] GET / => generated 15 bytes in 10 msecs (HTTP/2.0 200) 5 headers in 165 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 13663|app: 0|req: 1/3] 183.192.226.28 () {52 vars in 866 bytes} [Sun Dec 13 17:13:33 2020] GET /favicon.ico => generated 2075 bytes in 19 msecs (HTTP/2.0 404) 5 headers in 159 bytes (1 switches on core 0)
+[pid: 13664|app: 0|req: 1/4] 183.192.226.28 () {48 vars in 877 bytes} [Sun Dec 13 17:17:04 2020] GET /admin => generated 0 bytes in 8 msecs (HTTP/2.0 301) 5 headers in 175 bytes (1 switches on core 0)
+[pid: 13665|app: 0|req: 1/5] 183.192.226.28 () {48 vars in 879 bytes} [Sun Dec 13 17:17:04 2020] GET /admin/ => generated 0 bytes in 22 msecs (HTTP/2.0 302) 9 headers in 331 bytes (1 switches on core 0)
+[pid: 13661|app: 0|req: 2/6] 183.192.226.28 () {48 vars in 916 bytes} [Sun Dec 13 17:17:04 2020] GET /admin/login/?next=/admin/ => generated 2194 bytes in 44 msecs (HTTP/2.0 200) 9 headers in 461 bytes (1 switches on core 0)
+Not Found: /static/admin/css/nav_sidebar.css
+[pid: 13663|app: 0|req: 2/7] 183.192.226.28 () {48 vars in 919 bytes} [Sun Dec 13 17:17:04 2020] GET /static/admin/css/nav_sidebar.css => generated 2138 bytes in 8 msecs (HTTP/2.0 404) 5 headers in 159 bytes (1 switches on core 0)
+Not Found: /static/admin/css/base.css
+[pid: 13662|app: 0|req: 2/8] 183.192.226.28 () {48 vars in 905 bytes} [Sun Dec 13 17:17:04 2020] GET /static/admin/css/base.css => generated 2117 bytes in 14 msecs (HTTP/2.0 404) 5 headers in 159 bytes (1 switches on core 0)
+Not Found: /static/admin/css/login.css
+[pid: 13664|app: 0|req: 2/9] 183.192.226.28 () {48 vars in 907 bytes} [Sun Dec 13 17:17:04 2020] GET /static/admin/css/login.css => generated 2120 bytes in 12 msecs (HTTP/2.0 404) 5 headers in 159 bytes (1 switches on core 0)
+Not Found: /static/admin/css/responsive.css
+[pid: 13665|app: 0|req: 2/10] 183.192.226.28 () {48 vars in 917 bytes} [Sun Dec 13 17:17:04 2020] GET /static/admin/css/responsive.css => generated 2135 bytes in 10 msecs (HTTP/2.0 404) 5 headers in 159 bytes (1 switches on core 0)
+Not Found: /static/admin/js/nav_sidebar.js
+[pid: 13661|app: 0|req: 3/11] 183.192.226.28 () {48 vars in 901 bytes} [Sun Dec 13 17:17:04 2020] GET /static/admin/js/nav_sidebar.js => generated 2132 bytes in 6 msecs (HTTP/2.0 404) 5 headers in 159 bytes (1 switches on core 0)
+[pid: 13663|app: 0|req: 3/12] 183.192.226.28 () {60 vars in 1257 bytes} [Sun Dec 13 17:17:10 2020] POST /admin/login/?next=/admin/ => generated 2357 bytes in 226 msecs (HTTP/2.0 200) 9 headers in 461 bytes (1 switches on core 0)
+Not Found: /static/admin/css/base.css
+[pid: 13662|app: 0|req: 3/13] 183.192.226.28 () {48 vars in 905 bytes} [Sun Dec 13 17:17:10 2020] GET /static/admin/css/base.css => generated 2117 bytes in 5 msecs (HTTP/2.0 404) 5 headers in 159 bytes (1 switches on core 0)
+Not Found: /static/admin/css/nav_sidebar.css
+[pid: 13664|app: 0|req: 3/14] 183.192.226.28 () {48 vars in 919 bytes} [Sun Dec 13 17:17:10 2020] GET /static/admin/css/nav_sidebar.css => generated 2138 bytes in 5 msecs (HTTP/2.0 404) 5 headers in 159 bytes (1 switches on core 0)
+Not Found: /static/admin/css/login.css
+[pid: 13665|app: 0|req: 3/15] 183.192.226.28 () {48 vars in 907 bytes} [Sun Dec 13 17:17:10 2020] GET /static/admin/css/login.css => generated 2120 bytes in 4 msecs (HTTP/2.0 404) 5 headers in 159 bytes (1 switches on core 0)
+Not Found: /static/admin/css/responsive.css
+[pid: 13661|app: 0|req: 4/16] 183.192.226.28 () {48 vars in 917 bytes} [Sun Dec 13 17:17:10 2020] GET /static/admin/css/responsive.css => generated 2135 bytes in 7 msecs (HTTP/2.0 404) 5 headers in 159 bytes (1 switches on core 0)
+Not Found: /static/admin/js/nav_sidebar.js
+[pid: 13663|app: 0|req: 4/17] 183.192.226.28 () {48 vars in 901 bytes} [Sun Dec 13 17:17:10 2020] GET /static/admin/js/nav_sidebar.js => generated 2132 bytes in 4 msecs (HTTP/2.0 404) 5 headers in 159 bytes (1 switches on core 0)
